@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Виктория Горбенко](https://up.htmlacademy.ru/adaptive/9/user/247254).
-* Наставник: `Неизвестно`.
+* Наставник: `Ольга Одноколова`.
 
 ---
 
